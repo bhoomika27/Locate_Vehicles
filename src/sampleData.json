@@ -1,0 +1,46 @@
+[{
+    "vehicles": [
+      {
+        "vid":1,
+        "name": "Mercedes-Benz GLS",
+        "status":"red",
+        "location": [55.3033, 25.2146]
+      },
+      {
+        "vid":2,
+        "name": "Datsun Redi GO",
+        "status":"green",
+        "location": [55.597326, 25.105497]
+      },
+      {
+        "vid":3,
+        "name": "Skoda Karoq",
+        "status":"yellow",
+        "location": [55.2708, 25.2048]
+      },
+      {
+        "vid":4,
+        "name": "BMW 8 Series",
+        "status":"green",
+        "location":[55.3033, 25.2146]
+      },
+      {
+        "vid":5,
+        "name": "Jaguar F-Type",
+        "status":"red",
+        "location": [55.597326, 25.105497]
+      },
+      {
+        "vid":6,
+        "name": "Land Rover Defender",
+        "status":"yellow",
+        "location": [55.1403, 25.0805]
+      },
+      {
+        "vid":7,
+        "name": "Dodge",
+        "status":"none",
+        "location": [55.0273, 24.9857]
+      }
+    ]
+  }]
